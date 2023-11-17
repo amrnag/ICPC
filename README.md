@@ -1,7 +1,7 @@
 # Input Compression with Positional Consistency for Efficient Training and Inference of Transformer Neural Networks
 
 
-This repository contains code for the paper Input Compression with Positional Consistency for Efficient Training and Inference of Transformer Neural Networks.
+This repository contains code for the paper Input Compression with Positional Consistency for Efficient Training and Inference of Transformer Neural Networks. This implementation builds on Huggingface's [PyTorch-Image-Models](https://github.com/huggingface/pytorch-image-models) and [Vision-Transformers-CIFAR10](https://github.com/kentaroy47/vision-transformers-cifar10/tree/f5b4afa12974afd9462951838b1768cabd16480e).
 
 ## Dependencies
 To install the necessary packages, use `pip install -r requirements.txt `
